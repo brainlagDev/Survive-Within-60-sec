@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 96bce4081e6fad642868e08c9268972f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shootPos: {instanceID: 0}
+  - bulletPrefab: {instanceID: 0}
+  - _arenaManager: {fileID: 11400000, guid: d333e1998c13fe849a308a601263da59, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

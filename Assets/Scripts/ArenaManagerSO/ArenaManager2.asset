@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58ba8f4dfecbd9747a7897fa5374b4a3, type: 3}
+  m_Name: ArenaManager2
+  m_EditorClassIdentifier: 
+  playerSpeed: 7.8
+  _numberEnemies: 10
+  _time: 1
+  _prefabsEnemy:
+  - {fileID: 2474022093157331123, guid: d80b404a822dd694594d12bba96e1fd7, type: 3}
+  - {fileID: 4617751062194494030, guid: 517a06d11c4789949817a80ecd9cb3e1, type: 3}
+  _spawnDistanceTooCloseToPlayer: 3
+  _keyKillsCount: 5
+  _portalName: Portal
+  _keyName: Key
+  _bulletSpeed: 20
+  _shootDelay: 0.5
+  _enemyBulletSpeed: 10
+  _enemyShootDelay: 2
+  _hitsForTremor: 2
+  _currentLevel: 2
+  _camera: {fileID: 5782964801974952285, guid: 21f0abdaf3cb59b4d8ffd7b328bdf66b, type: 3}
